@@ -1,0 +1,3 @@
+[submodule "angular-cli"]
+	path = angular-cli
+	url = git@github.com:alejandroSuch/angular-cli.git
